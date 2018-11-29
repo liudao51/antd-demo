@@ -3,7 +3,11 @@
  */
 export default [
   {
-    path: '/test/helloworld',
-    component: './Test/HelloWorld',
+    path: '/test/hello_world',
+    component: './Test/HelloWorld.js',
+  },
+  {
+    path: '/test/component_props',
+    component: './Test/ComponentProps.js',
   },
 ];
