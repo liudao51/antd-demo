@@ -14,4 +14,8 @@ export default [
     path: '/test/component_props_children',
     component: './Test/ComponentPropsChildren.js',
   },
+  {
+    path: '/test/component_state',
+    component: './Test/ComponentState.js',
+  },
 ];
