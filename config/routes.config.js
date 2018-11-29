@@ -10,4 +10,8 @@ export default [
     path: '/test/component_props',
     component: './Test/ComponentProps.js',
   },
+  {
+    path: '/test/component_props_children',
+    component: './Test/ComponentPropsChildren.js',
+  },
 ];
