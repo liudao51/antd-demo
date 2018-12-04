@@ -18,4 +18,8 @@ export default [
     path: '/test/component_state',
     component: './Test/ComponentState.js',
   },
+  {
+    path: '/test/basic_layout',
+    component: './Test/BasicLayout.js',
+  },
 ];
